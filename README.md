@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/StevenAllison/MyProject/_apis/build/status/allisons1.pipelines-java?branchName=master)](https://dev.azure.com/StevenAllison/MyProject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
